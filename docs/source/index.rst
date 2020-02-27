@@ -20,14 +20,13 @@ There are several packages in the ScopeSim_ ecosystem to be aware of:
 .. _AnisoCADO: https://github.com/astronomyk/AnisoCADO
 .. _skycalc_ipy: https://github.com/astronomyk/skycalc_ipy
 
-
 .. note:: Much more information on these packages will be coming very soon!
-
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+    interfaces/source
 
 
 Indices and tables
